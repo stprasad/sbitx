@@ -2,7 +2,10 @@
 ![sBitx image](sb53.jpg)
 
 Initial Effort to improve the Web UI and also learn the software components. 
+
 Rest of the Readme is as is as of the fork date, June 25, 2026
+
+
 An improved version of the sBitx application designed for the sBitx hardware. This version is only for the 64-bit Raspberry Pi image, which can be downloaded [here](https://github.com/drexjj/sbitx/releases).
 
 ## 🚀 Core Development Team
